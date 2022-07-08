@@ -1,2 +1,2 @@
 # hybrid_epidemic_model
-A Hybrid Epidemic Spread Model with Congestion-Based Transport
+a graph mean-field and agent-based hybrid epidemic spread model
